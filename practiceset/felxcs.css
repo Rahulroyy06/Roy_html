@@ -1,0 +1,17 @@
+.container{
+    display: flex;
+    background-color: royalblue;
+    justify-content: center;
+    align-items: flex-start;
+
+}
+
+.flex-item{
+    background-color: chartreuse;
+    border: 2px solid royalblue;
+    margin: 30px;
+    height: 20px;
+    width: 30px;
+    
+
+}

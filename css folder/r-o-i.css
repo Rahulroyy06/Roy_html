@@ -1,0 +1,17 @@
+.container{
+    background-color: royalblue;
+    border: 2px solid black;
+    width: 40%;
+    margin: 180px;
+    padding: 5%;
+    padding-left: 20%;
+    height: 40%;
+    display: flex;
+    margin-left: 15%;
+}
+.inner{
+    padding: 20px;
+    border: 1px solid violet;
+    align-items: center;
+}
+
